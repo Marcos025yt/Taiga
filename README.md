@@ -1,2 +1,2 @@
 # Taiga
-Troquei a key do gpt
+Troque a key do gpt!!
